@@ -10,12 +10,10 @@ return new class extends Migration {
      */
     public function up(): void
     {
-        Schema::create('categories', function (Blueprint $table) {
-            $table->id();
-            $table->string(column: 'name');
-            $table->string('description');
-            $table->boolean('status')->default(1)->comment(comment: '1=visible,0=hidden');
-            $table->timestamps();
+        Schema::table('categories', function (Blueprint $table) {
+            //
+            $table->tinyInteger(column: 'yz')->default(0)->comment('1=enable,0=disable');
+            $table->boolean('yx')->default(1)->comment(comment: '1=visible,0=hidden');
         });
     }
 
@@ -24,6 +22,8 @@ return new class extends Migration {
      */
     public function down(): void
     {
-        Schema::dropIfExists('categories');
+        Schema::table('categories', function (Blueprint $table) {
+            //
+        });
     }
 };
