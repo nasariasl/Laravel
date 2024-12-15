@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html class="no-js" dir="rtl" lang="fa-IR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="profile" href="https://gmpg.org/xfn/11" />
+  <link rel="pingback" href="https://enjoymovie.ir/xmlrpc.php">
+
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
+
+	<!-- This site is optimized with the Yoast SEO plugin v23.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>انجوی مووی - لذت تماشای فیلمهای روز خارجی و ایرانی</title>
+	<meta name="description" content="لذت تماشای فیلمهای روز خارجی و ایرانی" />
+	<link rel="canonical" href="https://enjoymovie.ir/" />
+	<link rel="next" href="https://enjoymovie.ir/page/2/" />
+	<meta property="og:locale" content="fa_IR" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="انجوی مووی" />
+	<meta property="og:description" content="لذت تماشای فیلمهای روز خارجی و ایرانی" />
+	<meta property="og:url" content="https://enjoymovie.ir/" />
+	<meta property="og:site_name" content="انجوی مووی" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://enjoymovie.ir/","url":"https://enjoymovie.ir/","name":"انجوی مووی - لذت تماشای فیلمهای روز خارجی و ایرانی","isPartOf":{"@id":"https://enjoymovie.ir/#website"},"description":"لذت تماشای فیلمهای روز خارجی و ایرانی","breadcrumb":{"@id":"https://enjoymovie.ir/#breadcrumb"},"inLanguage":"fa-IR"},{"@type":"BreadcrumbList","@id":"https://enjoymovie.ir/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://enjoymovie.ir/#website","url":"https://enjoymovie.ir/","name":"انجوی مووی","description":"لذت تماشای فیلمهای روز خارجی و ایرانی","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://enjoymovie.ir/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"fa-IR"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="انجوی مووی &raquo; خوراک" href="https://enjoymovie.ir/feed/" />
+<link rel="alternate" type="application/rss+xml" title="انجوی مووی &raquo; خوراک دیدگاه‌ها" href="https://enjoymovie.ir/comments/feed/" />
+<link id="hu-user-gfont" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,300italic,300,400italic,600&subset=latin,latin-ext" rel="stylesheet" type="text/css"><script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/enjoymovie.ir\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-rtl-css' href='https://enjoymovie.ir/wp-includes/css/dist/block-library/style-rtl.min.css?ver=6.6.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://enjoymovie.ir/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-rtl-css' href='https://enjoymovie.ir/wp-content/plugins/contact-form-7/includes/css/styles-rtl.css?ver=5.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wpmoly-css' href='https://enjoymovie.ir/wp-content/plugins/wpmovielibrary/assets/css/public/wpmoly.css?ver=2.1.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wpmoly-flags-css' href='https://enjoymovie.ir/wp-content/plugins/wpmovielibrary/assets/css/public/wpmoly-flags.css?ver=2.1.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wpmoly-font-css' href='https://enjoymovie.ir/wp-content/plugins/wpmovielibrary/assets/fonts/wpmovielibrary/style.css?ver=2.1.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='hueman-main-style-css' href='https://enjoymovie.ir/wp-content/themes/hueman/assets/front/css/main.min.css?ver=3.4.20' type='text/css' media='all' />
+<style id='hueman-main-style-inline-css' type='text/css'>
+body { font-family:'Source Sans Pro', Arial, sans-serif;font-size:1.00rem }@media only screen and (min-width: 720px) {
+        .nav > li { font-size:1.00rem; }
+      }::selection { background-color: #c72026; }
+::-moz-selection { background-color: #c72026; }a,a+span.hu-external::after,.themeform label .required,#flexslider-featured .flex-direction-nav .flex-next:hover,#flexslider-featured .flex-direction-nav .flex-prev:hover,.post-hover:hover .post-title a,.post-title a:hover,.sidebar.s1 .post-nav li a:hover i,.content .post-nav li a:hover i,.post-related a:hover,.sidebar.s1 .widget_rss ul li a,#footer .widget_rss ul li a,.sidebar.s1 .widget_calendar a,#footer .widget_calendar a,.sidebar.s1 .alx-tab .tab-item-category a,.sidebar.s1 .alx-posts .post-item-category a,.sidebar.s1 .alx-tab li:hover .tab-item-title a,.sidebar.s1 .alx-tab li:hover .tab-item-comment a,.sidebar.s1 .alx-posts li:hover .post-item-title a,#footer .alx-tab .tab-item-category a,#footer .alx-posts .post-item-category a,#footer .alx-tab li:hover .tab-item-title a,#footer .alx-tab li:hover .tab-item-comment a,#footer .alx-posts li:hover .post-item-title a,.comment-tabs li.active a,.comment-awaiting-moderation,.child-menu a:hover,.child-menu .current_page_item > a,.wp-pagenavi a{ color: #c72026; }.themeform input[type="submit"],.themeform button[type="submit"],.sidebar.s1 .sidebar-top,.sidebar.s1 .sidebar-toggle,#flexslider-featured .flex-control-nav li a.flex-active,.post-tags a:hover,.sidebar.s1 .widget_calendar caption,#footer .widget_calendar caption,.author-bio .bio-avatar:after,.commentlist li.bypostauthor > .comment-body:after,.commentlist li.comment-author-admin > .comment-body:after{ background-color: #c72026; }.post-format .format-container { border-color: #c72026; }.sidebar.s1 .alx-tabs-nav li.active a,#footer .alx-tabs-nav li.active a,.comment-tabs li.active a,.wp-pagenavi a:hover,.wp-pagenavi a:active,.wp-pagenavi span.current{ border-bottom-color: #c72026!important; }body { background-color: #eaeaea; }
+</style>
+<link rel='stylesheet' id='hueman-font-awesome-css' href='https://enjoymovie.ir/wp-content/themes/hueman/assets/front/css/font-awesome.min.css?ver=3.4.20' type='text/css' media='all' />
+<script type="text/javascript" src="https://enjoymovie.ir/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://enjoymovie.ir/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://enjoymovie.ir/wp-content/themes/hueman/assets/front/js/libs/jquery.flexslider.min.js?ver=6.6.2" id="flexslider-js"></script>
+<link rel="https://api.w.org/" href="https://enjoymovie.ir/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://enjoymovie.ir/xmlrpc.php?rsd" />
+<link rel="stylesheet" href="https://enjoymovie.ir/wp-content/themes/hueman/rtl.css" type="text/css" media="screen" /><meta name="generator" content="WordPress 6.6.2" />
+<!--[if lt IE 9]>
+<script src="https://enjoymovie.ir/wp-content/themes/hueman/assets/front/js/ie/html5shiv-printshiv.min.js"></script>
+<script src="https://enjoymovie.ir/wp-content/themes/hueman/assets/front/js/ie/selectivizr.js"></script>
+<![endif]-->
+<link rel="icon" href="https://enjoymovie.ir/wp-content/uploads/2024/10/cropped-film-reel-xxl-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://enjoymovie.ir/wp-content/uploads/2024/10/cropped-film-reel-xxl-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://enjoymovie.ir/wp-content/uploads/2024/10/cropped-film-reel-xxl-180x180.png" />
+<meta name="msapplication-TileImage" content="https://enjoymovie.ir/wp-content/uploads/2024/10/cropped-film-reel-xxl-270x270.png" />
+  
+ <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EY152GETQQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EY152GETQQ');
+</script>
+
+<style>
+.custom-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* ستون‌ها با عرض حداقل 200px */
+    gap: 10px; /* فاصله بین تصاویر */
+}
+
+.gallery-item {
+    overflow: hidden; /* اطمینان از اینکه تصاویر بیش از حد بزرگ نشوند */
+    border-radius: 5px; /* گرد کردن گوشه‌ها */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* سایه برای زیبایی */
+    transition: transform 0.2s; /* انیمیشن هنگام هاور */
+}
+
+.gallery-item:hover {
+    transform: scale(1.05); /* بزرگ‌نمایی هنگام هاور */
+}
+
+.gallery-item img {
+    width: 100%; /* عرض تصویر 100% */
+    height: auto; /* حفظ نسبت ابعاد */
+    display: block; /* حذف فاصله زیر تصاویر */
+}
+</style>
+
+</head>
+
+<body class="rtl home blog wp-embed-responsive col-1c full-width header-desktop-sticky header-mobile-sticky unknown">
+
+<div id="wrapper">
+
+  
+  <header id="header" class="top-menu-mobile-on one-mobile-menu top_menu header-ads-desktop   has-header-img">
+        <nav class="nav-container group mobile-menu mobile-sticky no-menu-assigned" id="nav-mobile" data-menu-id="header-1">
+  <div class="mobile-title-logo-in-header">                  <p class="site-title"><a class="custom-logo-link" href="https://enjoymovie.ir/" rel="home" title="انجوی مووی | صفحه نخست">انجوی مووی</a></p>
+                </div>
+        
+                    <div class="nav-toggle"><i class="fas fa-bars"></i></div>
+            
+      <div class="nav-text"></div>
+      <div class="nav-wrap container">
+                  <ul class="nav container-inner group mobile-search">
+                            <li>
+                  <form method="get" class="searchform themeform" action="https://enjoymovie.ir/">
+	<div>
+		<input type="text" class="search" name="s" onblur="if(this.value=='')this.value='در جستجوی چه هستید؟';" onfocus="if(this.value=='در جستجوی چه هستید؟')this.value='';" value="در جستجوی چه هستید؟" />
+	</div>
+</form>                </li>
+                      </ul>
+                <ul id="menu-%d9%81%d9%87%d8%b1%d8%b3%d8%aa-%d8%a7%d9%88%d9%84%db%8c" class="nav container-inner group"><li id="menu-item-216" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216"><a href="https://enjoymovie.ir/category/hardsubs/">زیرنویس چسبیده</a></li>
+<li id="menu-item-217" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-217"><a href="https://enjoymovie.ir/category/dubbed/">دوبله فارسی</a></li>
+<li id="menu-item-218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218"><a href="https://enjoymovie.ir/actor-archives/">بازیگران</a></li>
+<li id="menu-item-219" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-219"><a href="https://enjoymovie.ir/genre-archives/">ژانرها</a></li>
+<li id="menu-item-220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-220"><a href="https://enjoymovie.ir/movie-archives/">فیلم‌ها</a></li>
+<li id="menu-item-221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-221"><a href="https://enjoymovie.ir/collection-archives/">مجموعه‌ها</a></li>
+<li id="menu-item-233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-233"><a href="https://plus.enjoymovie.ir/">تماشا آنلاین</a></li>
+</ul>      </div>
+</nav><!--/#nav-topbar-->  
+  
+  <div class="container group">
+        <div class="container-inner">
+
+                <div id="header-image-wrap">
+              <div class="group pad central-header-zone">
+                                                  </div>
+
+              <a href="https://enjoymovie.ir/" rel="home"><img class="site-image" src="https://enjoymovie.ir/wp-content/uploads/2024/10/image.event-inspiration-movie-night-header-desktop-anz-1.webp" alt="انجوی مووی"></a>          </div>
+      
+                <nav class="nav-container group desktop-menu " id="nav-header" data-menu-id="header-2">
+    <div class="nav-text"><!-- put your mobile menu text here --></div>
+
+  <div class="nav-wrap container">
+          <div id="main-header-search" class="container">
+        <div class="container-inner">
+          <div class="toggle-search"><i class="fas fa-search"></i></div>
+          <div class="search-expand">
+            <div class="search-expand-inner"><form method="get" class="searchform themeform" action="https://enjoymovie.ir/">
+	<div>
+		<input type="text" class="search" name="s" onblur="if(this.value=='')this.value='در جستجوی چه هستید؟';" onfocus="if(this.value=='در جستجوی چه هستید؟')this.value='';" value="در جستجوی چه هستید؟" />
+	</div>
+</form></div>
+          </div>
+        </div><!--/.container-inner-->
+      </div><!--/.container-->
+        <ul id="menu-%d9%81%d9%87%d8%b1%d8%b3%d8%aa-%d8%a7%d9%88%d9%84%db%8c-1" class="nav container-inner group"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216"><a href="https://enjoymovie.ir/category/hardsubs/">زیرنویس چسبیده</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-217"><a href="https://enjoymovie.ir/category/dubbed/">دوبله فارسی</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218"><a href="https://enjoymovie.ir/actor-archives/">بازیگران</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-219"><a href="https://enjoymovie.ir/genre-archives/">ژانرها</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-220"><a href="https://enjoymovie.ir/movie-archives/">فیلم‌ها</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-221"><a href="https://enjoymovie.ir/collection-archives/">مجموعه‌ها</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-233"><a href="https://plus.enjoymovie.ir/">تماشا آنلاین</a></li>
+</ul>  </div>
+</nav><!--/#nav-header-->      
+    </div><!--/.container-inner-->
+      </div><!--/.container-->
+
+</header><!--/#header-->
+  
+  <div class="container" id="page">
+    <div class="container-inner">
+            <div class="main">
+        <div class="main-inner group">
+          
+              <section class="content">
+              <div class="page-title pad group">
+          	        
+    	
+    </div><!--/.page-title-->
+          <div class="pad group">
+            
+    
+    
+  <div id="grid-wrapper" class="post-list group">
+    <div class="post-row">        <article id="post-463" class="group grid-item post-463 movie type-movie status-publish has-post-thumbnail hentry category-dubbed tag----whiteout-2024- tag----2024 collection-derek-barnes genre-drama genre-thriller actor-james-mcdougall actor-douglas-nyback actor-joel-labelle actor-ian-matthews actor-dru-viergever actor-jonathan-goad actor-jonathan-whittaker">
+	<div class="post-inner post-hover">
+
+		<div class="post-thumbnail">
+			<a href="https://enjoymovie.ir/movies/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%81%db%8c%d9%84%d9%85-%d8%a8%d9%88%d8%b1%d8%a7%d9%86-whiteout-2024/">
+				<img width="1707" height="2560" src="https://enjoymovie.ir/wp-content/uploads/2024/12/w5uAxfHR0xzi3Q0gGb1Nz3Y2TZ9-scaled.jpg" class="attachment-full size-full wp-post-image" alt="Poster for the movie &quot;بوران&quot;" decoding="async" fetchpriority="high" srcset="https://enjoymovie.ir/wp-content/uploads/2024/12/w5uAxfHR0xzi3Q0gGb1Nz3Y2TZ9-scaled.jpg 1707w, https://enjoymovie.ir/wp-content/uploads/2024/12/w5uAxfHR0xzi3Q0gGb1Nz3Y2TZ9-200x300.jpg 200w, https://enjoymovie.ir/wp-content/uploads/2024/12/w5uAxfHR0xzi3Q0gGb1Nz3Y2TZ9-683x1024.jpg 683w, https://enjoymovie.ir/wp-content/uploads/2024/12/w5uAxfHR0xzi3Q0gGb1Nz3Y2TZ9-768x1152.jpg 768w, https://enjoymovie.ir/wp-content/uploads/2024/12/w5uAxfHR0xzi3Q0gGb1Nz3Y2TZ9-1024x1536.jpg 1024w, https://enjoymovie.ir/wp-content/uploads/2024/12/w5uAxfHR0xzi3Q0gGb1Nz3Y2TZ9-1365x2048.jpg 1365w" sizes="(max-width: 1707px) 100vw, 1707px" />															</a>
+							<a class="post-comments" href="https://enjoymovie.ir/movies/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%81%db%8c%d9%84%d9%85-%d8%a8%d9%88%d8%b1%d8%a7%d9%86-whiteout-2024/#respond"><i class="far fa-comments"></i>0</a>
+					</div><!--/.post-thumbnail-->
+
+		<div class="post-meta group">
+			<!--<p class="post-category"><a href="https://enjoymovie.ir/category/dubbed/" rel="category tag">دوبله فارسی</a></p>--> 
+			<p class="post-date">
+  <time class="published updated" datetime="2024-12-04 20:34:49">دسامبر 4, 2024</time>
+</p>
+
+  <p class="post-byline" style="display:none">&nbsp;توسط    <span class="vcard author">
+      <span class="fn"><a href="https://enjoymovie.ir/author/enjoy/" title="ارسال شده توسط قهرمان" rel="author">قهرمان</a></span>
+    </span> &middot; Published <span class="published">دسامبر 4, 2024</span>
+      </p>
+		</div><!--/.post-meta-->
+
+		<h2 class="post-title entry-title">
+			<a href="https://enjoymovie.ir/movies/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%81%db%8c%d9%84%d9%85-%d8%a8%d9%88%d8%b1%d8%a7%d9%86-whiteout-2024/" rel="bookmark" title="لینک بهدانلود فیلم بوران Whiteout 2024">دانلود فیلم بوران Whiteout 2024</a>
+		</h2><!--/.post-title-->
+
+				<div class="entry excerpt entry-summary">
+			<p>خلاصه داستان: داستان فیلم درباره‌ی سه مرد است که پس از فرار از یک کمپ کار اجباری در روسیه، باید در یک طبیعت سرد و سخت با یکدیگر همکاری کنند تا به خانه بازگردند. این سفر به یک مبارزه طاقت‌فرسا برای بقا تبدیل می‌شود. اطلاعات کلی: کارگردان: درک بارنز ژانر: اکشن، درام، دلهره‌آور بازیگران اصلی: جیمز مک‌دوگال، داگلاس نیبک، جول لابل، ایان متیوز شرکت سازنده: Saban Films زمان اکران: ۲۲ نوامبر ۲۰۲۴ (اکران محدود و&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+		
+	</div><!--/.post-inner-->
+</article><!--/.post-->            <article id="post-444" class="group grid-item post-444 movie type-movie status-publish has-post-thumbnail hentry collection-tim-burton genre-comedy genre-fantasy genre-horror actor-michael-keaton actor-winona-ryder actor-catherine-ohara actor-jenna-ortega actor-justin-theroux actor-willem-dafoe actor-monica-bellucci actor-arthur-conti actor-nick-kellington actor-santiago-cabrera actor-burn-gorman actor-danny-devito actor-sami-slimane actor-amy-nuttall actor-mark-heenehan actor-charlie-hopkinson actor-liv-spencer actor-skylar-park actor-matt-lyons actor-jane-leaney actor-david-ayres actor-sophie-holland actor-walles-hamonde actor-max-pemberton actor-rebecca-omara actor-adam-speers actor-daryl-kwan actor-caroline-lawrie actor-philip-philmar actor-stephen-k-amos actor-sean-verre actor-noah-mendes actor-juliana-yazbeck actor-bea-svistunenko actor-filipe-cates actor-alex-michael-stoll actor-rupi-lal actor-georgina-beedle actor-stefano-marchetti actor-james-fisher actor-ian-hawkins actor-tim-burton actor-geena-davis">
+	<div class="post-inner post-hover">
+
+		<div class="post-thumbnail">
+			<a href="https://enjoymovie.ir/movies/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%81%db%8c%d9%84%d9%85-%d8%a8%db%8c%d8%aa%d9%84%d8%ac%d9%88%d8%b3-%d8%a8%db%8c%d8%aa%d9%84%d8%ac%d9%88%d8%b3-2-beetlejuice-beetlejuice-2024/">
+				<img width="1000" height="1500" src="https://enjoymovie.ir/wp-content/uploads/2024/10/wc6ZeSu9kUNmTdi8CffOOFMFIg8.jpg" class="attachment-full size-full wp-post-image" alt="بیتل‌جوس بیتل‌جوس 2024" decoding="async" srcset="https://enjoymovie.ir/wp-content/uploads/2024/10/wc6ZeSu9kUNmTdi8CffOOFMFIg8.jpg 1000w, https://enjoymovie.ir/wp-content/uploads/2024/10/wc6ZeSu9kUNmTdi8CffOOFMFIg8-200x300.jpg 200w, https://enjoymovie.ir/wp-content/uploads/2024/10/wc6ZeSu9kUNmTdi8CffOOFMFIg8-683x1024.jpg 683w, https://enjoymovie.ir/wp-content/uploads/2024/10/wc6ZeSu9kUNmTdi8CffOOFMFIg8-768x1152.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" />															</a>
+							<a class="post-comments" href="https://enjoymovie.ir/movies/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%81%db%8c%d9%84%d9%85-%d8%a8%db%8c%d8%aa%d9%84%d8%ac%d9%88%d8%b3-%d8%a8%db%8c%d8%aa%d9%84%d8%ac%d9%88%d8%b3-2-beetlejuice-beetlejuice-2024/#respond"><i class="far fa-comments"></i>0</a>
+					</div><!--/.post-thumbnail-->
+
+		<div class="post-meta group">
+			<!--<p class="post-category">دسته‌بندی نشده</p>--> 
+			<p class="post-date">
+  <time class="published updated" datetime="2024-10-29 22:51:25">اکتبر 29, 2024</time>
+</p>
+
+  <p class="post-byline" style="display:none">&nbsp;توسط    <span class="vcard author">
+      <span class="fn"><a href="https://enjoymovie.ir/author/enjoy/" title="ارسال شده توسط قهرمان" rel="author">قهرمان</a></span>
+    </span> &middot; Published <span class="published">اکتبر 29, 2024</span>
+     &middot; Last modified <span class="updated">نوامبر 15, 2024</span>  </p>
+		</div><!--/.post-meta-->
+
+		<h2 class="post-title entry-title">
+			<a href="https://enjoymovie.ir/movies/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%81%db%8c%d9%84%d9%85-%d8%a8%db%8c%d8%aa%d9%84%d8%ac%d9%88%d8%b3-%d8%a8%db%8c%d8%aa%d9%84%d8%ac%d9%88%d8%b3-2-beetlejuice-beetlejuice-2024/" rel="bookmark" title="لینک بهدانلود فیلم بیتل‌جوس بیتل‌جوس Beetlejuice Beetlejuice 2024">دانلود فیلم بیتل‌جوس بیتل‌جوس Beetlejuice Beetlejuice 2024</a>
+		</h2><!--/.post-title-->
+
+				<div class="entry excerpt entry-summary">
+			<p>فیلم Beetlejuice 2 (2024) با عنوان کامل Beetlejuice Beetlejuice ادامه‌ای بر فیلم کالت دهه ۸۰ به کارگردانی تیم برتون است و ستارگانی مانند مایکل کیتون و وینونا رایدر در نقش‌های خود بازمی‌گردند. این فیلم درباره ماجراجویی جدیدی است که پس از ناپدید شدن دختر لیدیا، آسترید، آغاز می‌شود. لیدیا با احضار بیتل‌جوس و کمک گرفتن از او وارد دنیای مردگان می‌شود تا دخترش را نجات دهد. مایکل کیتون بار دیگر با طنز و انرژی خاصی&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+		
+	</div><!--/.post-inner-->
+</article><!--/.post-->    </div><div class="post-row">        <article id="post-442" class="group grid-item post-442 movie type-movie status-publish has-post-thumbnail hentry collection-kelly-marcel genre-action genre-science-fiction genre-adventure actor-tom-hardy actor-chiwetel-ejiofor actor-juno-temple actor-rhys-ifans actor-stephen-graham actor-peggy-lu actor-clark-backo actor-alanna-ubach actor-andy-serkis actor-hala-finley actor-dash-mccloud actor-cristo-fernandez actor-jared-abrahamson actor-ivo-nandi actor-jack-brady actor-brooke-carter actor-fflyn-edwards actor-reid-scott actor-jake-allyn actor-otis-winston actor-jacob-tomuri actor-elijah-isaiah-cook actor-norma-butikofer actor-elizabeth-cook actor-annie-hsu actor-angie-hsu actor-martin-mcdougall actor-narendra-khandwe">
+	<div class="post-inner post-hover">
+
+		<div class="post-thumbnail">
+			<a href="https://enjoymovie.ir/movies/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%81%db%8c%d9%84%d9%85-%d9%88%d9%86%d9%88%d9%85-3-%d8%a2%d8%ae%d8%b1%db%8c%d9%86-%d8%b1%d9%82%d8%b5-venom-the-last-dance-2024/">
+				<img width="1707" height="2560" src="https://enjoymovie.ir/wp-content/uploads/2024/10/urH8P5HEdhjzz5XdrlcqlOaR6k3-scaled.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" srcset="https://enjoymovie.ir/wp-content/uploads/2024/10/urH8P5HEdhjzz5XdrlcqlOaR6k3-scaled.jpg 1707w, https://enjoymovie.ir/wp-content/uploads/2024/10/urH8P5HEdhjzz5XdrlcqlOaR6k3-200x300.jpg 200w, https://enjoymovie.ir/wp-content/uploads/2024/10/urH8P5HEdhjzz5XdrlcqlOaR6k3-683x1024.jpg 683w, https://enjoymovie.ir/wp-content/uploads/2024/10/urH8P5HEdhjzz5XdrlcqlOaR6k3-768x1152.jpg 768w, https://enjoymovie.ir/wp-content/uploads/2024/10/urH8P5HEdhjzz5XdrlcqlOaR6k3-1024x1536.jpg 1024w, https://enjoymovie.ir/wp-content/uploads/2024/10/urH8P5HEdhjzz5XdrlcqlOaR6k3-1365x2048.jpg 1365w" sizes="(max-width: 1707px) 100vw, 1707px" />															</a>
+							<a class="post-comments" href="https://enjoymovie.ir/movies/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%81%db%8c%d9%84%d9%85-%d9%88%d9%86%d9%88%d9%85-3-%d8%a2%d8%ae%d8%b1%db%8c%d9%86-%d8%b1%d9%82%d8%b5-venom-the-last-dance-2024/#respond"><i class="far fa-comments"></i>0</a>
+					</div><!--/.post-thumbnail-->
+
+		<div class="post-meta group">
+			<!--<p class="post-category">دسته‌بندی نشده</p>--> 
+			<p class="post-date">
+  <time class="published updated" datetime="2024-10-27 16:23:37">اکتبر 27, 2024</time>
+</p>
+
+  <p class="post-byline" style="display:none">&nbsp;توسط    <span class="vcard author">
+      <span class="fn"><a href="https://enjoymovie.ir/author/enjoy/" title="ارسال شده توسط قهرمان" rel="author">قهرمان</a></span>
+    </span> &middot; Published <span class="published">اکتبر 27, 2024</span>
+     &middot; Last modified <span class="updated">نوامبر 17, 2024</span>  </p>
+		</div><!--/.post-meta-->
+
+		<h2 class="post-title entry-title">
+			<a href="https://enjoymovie.ir/movies/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%81%db%8c%d9%84%d9%85-%d9%88%d9%86%d9%88%d9%85-3-%d8%a2%d8%ae%d8%b1%db%8c%d9%86-%d8%b1%d9%82%d8%b5-venom-the-last-dance-2024/" rel="bookmark" title="لینک بهدانلود فیلم ونوم ۳ آخرین رقص Venom: The Last Dance 2024">دانلود فیلم ونوم ۳ آخرین رقص Venom: The Last Dance 2024</a>
+		</h2><!--/.post-title-->
+
+				<div class="entry excerpt entry-summary">
+			<p>ادی براک پس از پشت سر گذاشتن ماجراجویی‌های پرزد و خورد با ونوم و همچنین باقی گذاشتن تکه‌ای از این موجود بیگانه، حال بازگشته تا با تهدیدی بسیار وحشتناک دست و پنجه نرم کند. تهدیدی که این بار ساکنین مرگبار سیاره ونوم را بر سرش خراب کرده است. تهدیدی بسیار خطرناک و غیرقابل تصور که به نظر می‌رسد پایان کار او و ونوم را رقم خواهد زد… &#8220;Venom 3: The Last Dance&#8221; به عنوان آخرین&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+		
+	</div><!--/.post-inner-->
+</article><!--/.post-->            <article id="post-438" class="group grid-item post-438 movie type-movie status-publish has-post-thumbnail hentry collection-ant-timpson genre-family genre-adventure genre-comedy actor-elijah-wood actor-nell-fisher actor-michael-smiley actor-vanessa-stacey actor-morgana-oreilly actor-millen-baird actor-nikki-siulepa actor-theo-shakes">
+	<div class="post-inner post-hover">
+
+		<div class="post-thumbnail">
+			<a href="https://enjoymovie.ir/movies/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%81%db%8c%d9%84%d9%85-%d8%ae%d9%88%d8%b1%d9%87-%da%a9%d8%aa%d8%a7%d8%a8-bookworm-2024/">
+				<img width="1707" height="2560" src="https://enjoymovie.ir/wp-content/uploads/2024/10/VxcTjlwugdsY9WN2UYbZbhwEZ3-1-scaled.jpg" class="attachment-full size-full wp-post-image" alt="فیلم خوره کتاب Bookworm 2024 با زیرنویس فارسی" decoding="async" loading="lazy" srcset="https://enjoymovie.ir/wp-content/uploads/2024/10/VxcTjlwugdsY9WN2UYbZbhwEZ3-1-scaled.jpg 1707w, https://enjoymovie.ir/wp-content/uploads/2024/10/VxcTjlwugdsY9WN2UYbZbhwEZ3-1-200x300.jpg 200w, https://enjoymovie.ir/wp-content/uploads/2024/10/VxcTjlwugdsY9WN2UYbZbhwEZ3-1-683x1024.jpg 683w, https://enjoymovie.ir/wp-content/uploads/2024/10/VxcTjlwugdsY9WN2UYbZbhwEZ3-1-768x1152.jpg 768w, https://enjoymovie.ir/wp-content/uploads/2024/10/VxcTjlwugdsY9WN2UYbZbhwEZ3-1-1024x1536.jpg 1024w, https://enjoymovie.ir/wp-content/uploads/2024/10/VxcTjlwugdsY9WN2UYbZbhwEZ3-1-1365x2048.jpg 1365w" sizes="(max-width: 1707px) 100vw, 1707px" />															</a>
+							<a class="post-comments" href="https://enjoymovie.ir/movies/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%81%db%8c%d9%84%d9%85-%d8%ae%d9%88%d8%b1%d9%87-%da%a9%d8%aa%d8%a7%d8%a8-bookworm-2024/#respond"><i class="far fa-comments"></i>0</a>
+					</div><!--/.post-thumbnail-->
+
+		<div class="post-meta group">
+			<!--<p class="post-category">دسته‌بندی نشده</p>--> 
+			<p class="post-date">
+  <time class="published updated" datetime="2024-10-24 23:33:38">اکتبر 24, 2024</time>
+</p>
+
+  <p class="post-byline" style="display:none">&nbsp;توسط    <span class="vcard author">
+      <span class="fn"><a href="https://enjoymovie.ir/author/enjoy/" title="ارسال شده توسط قهرمان" rel="author">قهرمان</a></span>
+    </span> &middot; Published <span class="published">اکتبر 24, 2024</span>
+     &middot; Last modified <span class="updated">نوامبر 17, 2024</span>  </p>
+		</div><!--/.post-meta-->
+
+		<h2 class="post-title entry-title">
+			<a href="https://enjoymovie.ir/movies/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%81%db%8c%d9%84%d9%85-%d8%ae%d9%88%d8%b1%d9%87-%da%a9%d8%aa%d8%a7%d8%a8-bookworm-2024/" rel="bookmark" title="لینک بهدانلود فیلم خوره کتاب Bookworm 2024">دانلود فیلم خوره کتاب Bookworm 2024</a>
+		</h2><!--/.post-title-->
+
+				<div class="entry excerpt entry-summary">
+			<p>فیلم Bookworm (2024) یک ماجراجویی خانوادگی است که به کارگردانی Ant Timpson و با بازی Elijah Wood و Nell Fisher ساخته شده است. داستان این فیلم در مورد دختری به نام میلدرِد است که در تلاش است برای کمک به مادرش، که در کما به سر می‌برد، با پدر بیگانه‌اش، استران، به یک ماجراجویی برود تا جایزه‌ای را برای پیدا کردن یک پلنگ افسانه‌ای به دست آورد. این فیلم در مناظر زیبای نیوزیلند فیلم‌برداری شده&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+		
+	</div><!--/.post-inner-->
+</article><!--/.post-->    </div><div class="post-row">        <article id="post-434" class="group grid-item post-434 movie type-movie status-publish has-post-thumbnail hentry collection-chris-sanders genre-animation genre-science-fiction genre-family actor-lupita-nyongo actor-pedro-pascal actor-kit-connor actor-bill-nighy actor-stephanie-hsu actor-matt-berry actor-ving-rhames actor-mark-hamill actor-catherine-ohara actor-boone-storm actor-alexandra-novelle actor-raphael-alejandro actor-paul-mikel-williams actor-eddie-park actor-dee-bradley-baker actor-randy-thom actor-avrielle-corti actor-keston-john actor-max-mittelman actor-piotr-michael actor-alessandro-beghi actor-tiago-martinez actor-becca-last actor-madelyn-turpin actor-kayleigh-rayne actor-isabelle-tupin actor-beckett-blomberg actor-damon-fung actor-king-moore actor-collin-erker">
+	<div class="post-inner post-hover">
+
+		<div class="post-thumbnail">
+			<a href="https://enjoymovie.ir/movies/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a7%d9%86%db%8c%d9%85%db%8c%d8%b4%d9%86-%d8%b1%d8%a8%d8%a7%d8%aa-%d9%88%d8%ad%d8%b4%db%8c-the-wild-robot-2024/">
+				<img width="1707" height="2560" src="https://enjoymovie.ir/wp-content/uploads/2024/10/onBTkK64rwFqpA4Uz6YD7V8Fm8P-scaled.jpg" class="attachment-full size-full wp-post-image" alt="روبات وحشی" decoding="async" loading="lazy" srcset="https://enjoymovie.ir/wp-content/uploads/2024/10/onBTkK64rwFqpA4Uz6YD7V8Fm8P-scaled.jpg 1707w, https://enjoymovie.ir/wp-content/uploads/2024/10/onBTkK64rwFqpA4Uz6YD7V8Fm8P-200x300.jpg 200w, https://enjoymovie.ir/wp-content/uploads/2024/10/onBTkK64rwFqpA4Uz6YD7V8Fm8P-683x1024.jpg 683w, https://enjoymovie.ir/wp-content/uploads/2024/10/onBTkK64rwFqpA4Uz6YD7V8Fm8P-768x1152.jpg 768w, https://enjoymovie.ir/wp-content/uploads/2024/10/onBTkK64rwFqpA4Uz6YD7V8Fm8P-1024x1536.jpg 1024w, https://enjoymovie.ir/wp-content/uploads/2024/10/onBTkK64rwFqpA4Uz6YD7V8Fm8P-1365x2048.jpg 1365w" sizes="(max-width: 1707px) 100vw, 1707px" />															</a>
+							<a class="post-comments" href="https://enjoymovie.ir/movies/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a7%d9%86%db%8c%d9%85%db%8c%d8%b4%d9%86-%d8%b1%d8%a8%d8%a7%d8%aa-%d9%88%d8%ad%d8%b4%db%8c-the-wild-robot-2024/#respond"><i class="far fa-comments"></i>0</a>
+					</div><!--/.post-thumbnail-->
+
+		<div class="post-meta group">
+			<!--<p class="post-category">دسته‌بندی نشده</p>--> 
+			<p class="post-date">
+  <time class="published updated" datetime="2024-10-23 00:17:10">اکتبر 23, 2024</time>
+</p>
+
+  <p class="post-byline" style="display:none">&nbsp;توسط    <span class="vcard author">
+      <span class="fn"><a href="https://enjoymovie.ir/author/enjoy/" title="ارسال شده توسط قهرمان" rel="author">قهرمان</a></span>
+    </span> &middot; Published <span class="published">اکتبر 23, 2024</span>
+     &middot; Last modified <span class="updated">نوامبر 17, 2024</span>  </p>
+		</div><!--/.post-meta-->
+
+		<h2 class="post-title entry-title">
+			<a href="https://enjoymovie.ir/movies/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a7%d9%86%db%8c%d9%85%db%8c%d8%b4%d9%86-%d8%b1%d8%a8%d8%a7%d8%aa-%d9%88%d8%ad%d8%b4%db%8c-the-wild-robot-2024/" rel="bookmark" title="لینک بهدانلود انیمیشن ربات وحشی The Wild Robot 2024">دانلود انیمیشن ربات وحشی The Wild Robot 2024</a>
+		</h2><!--/.post-title-->
+
+				<div class="entry excerpt entry-summary">
+			<p>پس از سقوط یک سفینه، ربات هوشمندی به‌نام رز در جزیره‌ای خالی از سکنه سرگردان می‌شود. برای زنده ماندن در محیط سخت، رز به حیوانات جزیره نزدیک می‌شود و از یک بچه غاز یتیم مراقبت می‌کند. نقد و بررسی انیمیشن &#8220;روبوت وحشی&#8221; (The Wild Robot) 2024 خلاصه داستان: &#8220;روبوت وحشی&#8221; یک انیمیشن ماجراجویی و عاطفی است که بر اساس رمان پرفروش پیتر براون ساخته شده است. داستان حول محور یک ربات به نام راز (Roz)&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+		
+	</div><!--/.post-inner-->
+</article><!--/.post-->            <article id="post-432" class="group grid-item post-432 movie type-movie status-publish has-post-thumbnail hentry collection-anna-kendrick genre-crime genre-drama genre-thriller actor-anna-kendrick actor-daniel-zovatto actor-tony-hale actor-nicolette-robinson actor-autumn-best actor-pete-holmes actor-kathryn-gallagher actor-kelley-jakle actor-matt-visser actor-jedidiah-goodacre actor-rob-morton actor-dylan-schmid actor-karen-holness actor-denalda-williams actor-jessie-fraser actor-matty-finochio actor-geoff-gustafson actor-max-lloyd-jones actor-andy-thompson actor-nancy-kerr actor-james-yi actor-jessica-chaffin actor-matthew-kevin-anderson actor-taylor-hastings actor-david-beairsto actor-darcy-laurie actor-marc-gaudet actor-bonnie-hay actor-michael-adamthwaite actor-jacob-woike actor-jason-simpson actor-hannah-henney actor-tighe-gill actor-michael-jonsson actor-vonnie-bennetto actor-thomas-strumpski actor-john-herkenrath actor-jeremy-radin">
+	<div class="post-inner post-hover">
+
+		<div class="post-thumbnail">
+			<a href="https://enjoymovie.ir/movies/%d8%a8%d8%a7%d8%b2%db%8c-%d9%82%d8%b1%d8%a7%d8%b1-%d9%85%d9%84%d8%a7%d9%82%d8%a7%d8%aa/">
+				<img width="1707" height="2560" src="https://enjoymovie.ir/wp-content/uploads/2024/10/jG5zGeBL4iU5emZ4QV66W7Rlbm9-scaled.jpg" class="attachment-full size-full wp-post-image" alt="بازی قرار ملاقات" decoding="async" loading="lazy" srcset="https://enjoymovie.ir/wp-content/uploads/2024/10/jG5zGeBL4iU5emZ4QV66W7Rlbm9-scaled.jpg 1707w, https://enjoymovie.ir/wp-content/uploads/2024/10/jG5zGeBL4iU5emZ4QV66W7Rlbm9-200x300.jpg 200w, https://enjoymovie.ir/wp-content/uploads/2024/10/jG5zGeBL4iU5emZ4QV66W7Rlbm9-683x1024.jpg 683w, https://enjoymovie.ir/wp-content/uploads/2024/10/jG5zGeBL4iU5emZ4QV66W7Rlbm9-768x1152.jpg 768w, https://enjoymovie.ir/wp-content/uploads/2024/10/jG5zGeBL4iU5emZ4QV66W7Rlbm9-1024x1536.jpg 1024w, https://enjoymovie.ir/wp-content/uploads/2024/10/jG5zGeBL4iU5emZ4QV66W7Rlbm9-1365x2048.jpg 1365w" sizes="(max-width: 1707px) 100vw, 1707px" />															</a>
+							<a class="post-comments" href="https://enjoymovie.ir/movies/%d8%a8%d8%a7%d8%b2%db%8c-%d9%82%d8%b1%d8%a7%d8%b1-%d9%85%d9%84%d8%a7%d9%82%d8%a7%d8%aa/#respond"><i class="far fa-comments"></i>0</a>
+					</div><!--/.post-thumbnail-->
+
+		<div class="post-meta group">
+			<!--<p class="post-category">دسته‌بندی نشده</p>--> 
+			<p class="post-date">
+  <time class="published updated" datetime="2024-10-22 23:53:17">اکتبر 22, 2024</time>
+</p>
+
+  <p class="post-byline" style="display:none">&nbsp;توسط    <span class="vcard author">
+      <span class="fn"><a href="https://enjoymovie.ir/author/enjoy/" title="ارسال شده توسط قهرمان" rel="author">قهرمان</a></span>
+    </span> &middot; Published <span class="published">اکتبر 22, 2024</span>
+     &middot; Last modified <span class="updated">اکتبر 23, 2024</span>  </p>
+		</div><!--/.post-meta-->
+
+		<h2 class="post-title entry-title">
+			<a href="https://enjoymovie.ir/movies/%d8%a8%d8%a7%d8%b2%db%8c-%d9%82%d8%b1%d8%a7%d8%b1-%d9%85%d9%84%d8%a7%d9%82%d8%a7%d8%aa/" rel="bookmark" title="لینک بهدانلود فیلم زن سرنوشت ساز Woman of the Hour 2024">دانلود فیلم زن سرنوشت ساز Woman of the Hour 2024</a>
+		</h2><!--/.post-title-->
+
+				<div class="entry excerpt entry-summary">
+			<p>داستان عجیب‌تر از خیال یک بازیگر مشتاق در لس‌آنجلس دهه ۱۹۷۰ و یک قاتل زنجیره‌ای در میانه قتل‌های چندین ساله‌اش، که زندگی‌هایشان زمانی که برای یک قسمت از برنامه &#8220;بازی قرار ملاقات&#8221; انتخاب می‌شوند، به هم گره می‌خورد.&#8221;Woman of the Hour&#8221; (2024)، اولین تجربه کارگردانی آنا کندریک است که علاوه بر کارگردانی، نقش اصلی فیلم یعنی شریل بردشاو را نیز بازی می‌کند. این فیلم بر اساس یک داستان واقعی ساخته شده و به بررسی عمیق&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+		
+	</div><!--/.post-inner-->
+</article><!--/.post-->    </div><div class="post-row">        <article id="post-407" class="group grid-item post-407 movie type-movie status-publish has-post-thumbnail hentry collection-nikkhil-advani genre-action genre-drama genre-thriller actor-john-abraham actor-sharvari-wagh actor-abhishek-banerjee actor-ashish-vidhyarthi actor-kshitij-chauhan actor-tamannaah-bhatia actor-danish-husain actor-tanvi-malhara actor-rajendra-chawla actor-kapil-nirmal actor-anurag-thakur actor-mahadev-singh-lakhawat actor-parag-sharma actor-kumud-mishra actor-ajeet-singh-palawat actor-rajoshri-vidyarthi actor-paritosh-sand actor-k-c-shankar actor-gowhar-khan actor-nirmal-chaudhary actor-rocky-mahajan">
+	<div class="post-inner post-hover">
+
+		<div class="post-thumbnail">
+			<a href="https://enjoymovie.ir/movies/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%81%db%8c%d9%84%d9%85-%d9%88%d8%af%d8%a7-vedaa-2024/">
+				<img width="850" height="1275" src="https://enjoymovie.ir/wp-content/uploads/2024/10/qSIDNBh4F9QNTUJaPX0Eqq0CUv5.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://enjoymovie.ir/wp-content/uploads/2024/10/qSIDNBh4F9QNTUJaPX0Eqq0CUv5.jpg 850w, https://enjoymovie.ir/wp-content/uploads/2024/10/qSIDNBh4F9QNTUJaPX0Eqq0CUv5-200x300.jpg 200w, https://enjoymovie.ir/wp-content/uploads/2024/10/qSIDNBh4F9QNTUJaPX0Eqq0CUv5-683x1024.jpg 683w, https://enjoymovie.ir/wp-content/uploads/2024/10/qSIDNBh4F9QNTUJaPX0Eqq0CUv5-768x1152.jpg 768w" sizes="(max-width: 850px) 100vw, 850px" />															</a>
+							<a class="post-comments" href="https://enjoymovie.ir/movies/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%81%db%8c%d9%84%d9%85-%d9%88%d8%af%d8%a7-vedaa-2024/#respond"><i class="far fa-comments"></i>0</a>
+					</div><!--/.post-thumbnail-->
+
+		<div class="post-meta group">
+			<!--<p class="post-category">دسته‌بندی نشده</p>--> 
+			<p class="post-date">
+  <time class="published updated" datetime="2024-10-18 21:27:13">اکتبر 18, 2024</time>
+</p>
+
+  <p class="post-byline" style="display:none">&nbsp;توسط    <span class="vcard author">
+      <span class="fn"><a href="https://enjoymovie.ir/author/enjoy/" title="ارسال شده توسط قهرمان" rel="author">قهرمان</a></span>
+    </span> &middot; Published <span class="published">اکتبر 18, 2024</span>
+     &middot; Last modified <span class="updated">اکتبر 23, 2024</span>  </p>
+		</div><!--/.post-meta-->
+
+		<h2 class="post-title entry-title">
+			<a href="https://enjoymovie.ir/movies/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%81%db%8c%d9%84%d9%85-%d9%88%d8%af%d8%a7-vedaa-2024/" rel="bookmark" title="لینک بهدانلود فیلم هندی ودا Vedaa (2024)">دانلود فیلم هندی ودا Vedaa (2024)</a>
+		</h2><!--/.post-title-->
+
+				<div class="entry excerpt entry-summary">
+			<p>فیلم *Vedaa* (2024)، به کارگردانی *نیکهیل آدوای* و با بازی *جان آبراهام* و *شارواری واگ*، یک درام اکشن اجتماعی است که با پرداختن به موضوعات سنگین مانند تبعیض طبقاتی و ظلم اجتماعی در هند، تماشاگران را تحت تأثیر قرار می‌دهد. داستان این فیلم درباره *ودا* (شارواری واگ)، دختری از طبقه دالیت‌هاست که با سرکوب و تبعیض طبقاتی شدید در جامعه خود روبه‌رو می‌شود. او که علاقه‌مند به یادگیری بوکس است، تحت حمایت *ابیمنیو* (جان آبراهام)،&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+		
+	</div><!--/.post-inner-->
+</article><!--/.post-->            <article id="post-300" class="group grid-item post-300 movie type-movie status-publish has-post-thumbnail hentry collection-venkat-prabhu genre-action genre-drama genre-thriller actor-vijay actor-prashanth actor-prabhu-deva actor-ajmal-ameer actor-mohan actor-jayaram actor-sneha actor-laila actor-meenakshi-chaudhary actor-premji-amaran actor-vaibhav-reddy actor-yogi-babu actor-vtv-ganesh actor-aravind-akash actor-ajay-raj actor-yugendran actor-parvatii-nair actor-y-g-mahendran actor-trisha-krishnan actor-sivakarthikeyan actor-vijayakanth">
+	<div class="post-inner post-hover">
+
+		<div class="post-thumbnail">
+			<a href="https://enjoymovie.ir/movies/the-greatest-of-all-time/">
+				<img width="1066" height="1597" src="https://enjoymovie.ir/wp-content/uploads/2024/10/wrlXEuW40Mq6n9ESvGCU0oxaxfj.jpg" class="attachment-full size-full wp-post-image" alt="Poster for the movie &quot;The Greatest of All Time&quot;" decoding="async" loading="lazy" srcset="https://enjoymovie.ir/wp-content/uploads/2024/10/wrlXEuW40Mq6n9ESvGCU0oxaxfj.jpg 1066w, https://enjoymovie.ir/wp-content/uploads/2024/10/wrlXEuW40Mq6n9ESvGCU0oxaxfj-200x300.jpg 200w, https://enjoymovie.ir/wp-content/uploads/2024/10/wrlXEuW40Mq6n9ESvGCU0oxaxfj-684x1024.jpg 684w, https://enjoymovie.ir/wp-content/uploads/2024/10/wrlXEuW40Mq6n9ESvGCU0oxaxfj-768x1151.jpg 768w, https://enjoymovie.ir/wp-content/uploads/2024/10/wrlXEuW40Mq6n9ESvGCU0oxaxfj-1025x1536.jpg 1025w" sizes="(max-width: 1066px) 100vw, 1066px" />															</a>
+					</div><!--/.post-thumbnail-->
+
+		<div class="post-meta group">
+			<!--<p class="post-category">دسته‌بندی نشده</p>--> 
+			<p class="post-date">
+  <time class="published updated" datetime="2024-10-16 21:13:25">اکتبر 16, 2024</time>
+</p>
+
+  <p class="post-byline" style="display:none">&nbsp;توسط    <span class="vcard author">
+      <span class="fn"><a href="https://enjoymovie.ir/author/enjoy/" title="ارسال شده توسط قهرمان" rel="author">قهرمان</a></span>
+    </span> &middot; Published <span class="published">اکتبر 16, 2024</span>
+     &middot; Last modified <span class="updated">اکتبر 23, 2024</span>  </p>
+		</div><!--/.post-meta-->
+
+		<h2 class="post-title entry-title">
+			<a href="https://enjoymovie.ir/movies/the-greatest-of-all-time/" rel="bookmark" title="لینک بهدانلود فیلم بزرگترین تمام دوران The Greatest of All Time 2024">دانلود فیلم بزرگترین تمام دوران The Greatest of All Time 2024</a>
+		</h2><!--/.post-title-->
+
+				<div class="entry excerpt entry-summary">
+			<p>فیلم &#8220;بزرگترین تمام دوران&#8221; (The Greatest of All Time &#8211; 2024)، یک فیلم اکشن و هیجان‌انگیز هندی است که به زبان تامیل ساخته شده و توسط ونکات پرابهو کارگردانی شده است. ستاره اصلی فیلم ویجای است که در نقش‌های دوگانه ظاهر می‌شود و شخصیت‌های گاندی و پسرش جیوان را بازی می‌کند. این فیلم به مفاهیمی همچون انتقام، خانواده، و رستگاری می‌پردازد و داستان پیچیده‌ای از روابط پدر و پسر، خیانت، و ترفندهای علمی همچون تکنولوژی&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+		
+	</div><!--/.post-inner-->
+</article><!--/.post-->    </div><div class="post-row">        <article id="post-281" class="group grid-item post-281 movie type-movie status-publish has-post-thumbnail hentry collection-thomas-astruc genre-animation genre-adventure genre-action genre-fantasy actor-annouck-hautbois actor-benjamin-bollen actor-marie-nonnenmacher actor-thierry-kazazian actor-adeline-chetail actor-martial-le-minoux actor-antoine-tome actor-marie-chevalot actor-clara-soares actor-gilbert-levy">
+	<div class="post-inner post-hover">
+
+		<div class="post-thumbnail">
+			<a href="https://enjoymovie.ir/movies/miraculous-world-london-at-the-edge-of-time/">
+				<img width="1707" height="2560" src="https://enjoymovie.ir/wp-content/uploads/2024/10/g4ShHhp0WOnVlpaOo3A8pKQlj3r-scaled.jpg" class="attachment-full size-full wp-post-image" alt="Poster for the movie &quot;Miraculous World, London: At the Edge of Time&quot;" decoding="async" loading="lazy" srcset="https://enjoymovie.ir/wp-content/uploads/2024/10/g4ShHhp0WOnVlpaOo3A8pKQlj3r-scaled.jpg 1707w, https://enjoymovie.ir/wp-content/uploads/2024/10/g4ShHhp0WOnVlpaOo3A8pKQlj3r-200x300.jpg 200w, https://enjoymovie.ir/wp-content/uploads/2024/10/g4ShHhp0WOnVlpaOo3A8pKQlj3r-683x1024.jpg 683w, https://enjoymovie.ir/wp-content/uploads/2024/10/g4ShHhp0WOnVlpaOo3A8pKQlj3r-768x1152.jpg 768w, https://enjoymovie.ir/wp-content/uploads/2024/10/g4ShHhp0WOnVlpaOo3A8pKQlj3r-1024x1536.jpg 1024w, https://enjoymovie.ir/wp-content/uploads/2024/10/g4ShHhp0WOnVlpaOo3A8pKQlj3r-1365x2048.jpg 1365w" sizes="(max-width: 1707px) 100vw, 1707px" />															</a>
+					</div><!--/.post-thumbnail-->
+
+		<div class="post-meta group">
+			<!--<p class="post-category">دسته‌بندی نشده</p>--> 
+			<p class="post-date">
+  <time class="published updated" datetime="2024-10-16 19:21:50">اکتبر 16, 2024</time>
+</p>
+
+  <p class="post-byline" style="display:none">&nbsp;توسط    <span class="vcard author">
+      <span class="fn"><a href="https://enjoymovie.ir/author/enjoy/" title="ارسال شده توسط قهرمان" rel="author">قهرمان</a></span>
+    </span> &middot; Published <span class="published">اکتبر 16, 2024</span>
+     &middot; Last modified <span class="updated">اکتبر 23, 2024</span>  </p>
+		</div><!--/.post-meta-->
+
+		<h2 class="post-title entry-title">
+			<a href="https://enjoymovie.ir/movies/miraculous-world-london-at-the-edge-of-time/" rel="bookmark" title="لینک بهدانلود انیمیشن دختر کفشدوزکی: ماجراجویی در لندن  Miraculous World, London: At the Edge of Time 2024">دانلود انیمیشن دختر کفشدوزکی: ماجراجویی در لندن  Miraculous World, London: At the Edge of Time 2024</a>
+		</h2><!--/.post-title-->
+
+				<div class="entry excerpt entry-summary">
+			<p>انیمیشن &#8220;دختر کفشدوزکی: ماجراجویی در لندن (Miraculous World: London, At the Edge of Time)&#8221; ### شرکت سازنده انیمیشن &#8220;دختر کفشدوزکی: ماجراجویی در لندن&#8221; یکی از قسمت‌های ویژه از سری دنیای معجزه‌آسا (Miraculous World) است. این انیمیشن توسط شرکت فرانسوی ZAG Animation و Method Animation ساخته شده است. شرکت ZAG Entertainment به سرپرستی توماس آستروک، خالق سری اصلی، در این پروژه مشارکت داشته و این بخش جدید از دنیای معجزه‌آسا به خط تولید انیمیشن‌های جهانی افزوده&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+		
+	</div><!--/.post-inner-->
+</article><!--/.post-->            <article id="post-271" class="group grid-item post-271 movie type-movie status-publish has-post-thumbnail hentry collection-wang-baoqiang genre-action genre-drama actor-bao-zhenjiang actor-chen-yongsheng actor-chi-peng actor-debowen-zhou actor-dong-qi actor-hu-haofan actor-hu-ma actor-jerry-lee actor-li-meng actor-li-ruotian actor-li-yang actor-liang-zhao actor-liu-hua actor-qiulang-jia-yang actor-shi-pengyuan actor-wang-baoqiang actor-wang-dazhi actor-wang-xun actor-xiao-yang actor-xing-yu actor-yongfang-wang actor-zhang-qi actor-zhang-yitong">
+	<div class="post-inner post-hover">
+
+		<div class="post-thumbnail">
+			<a href="https://enjoymovie.ir/movies/never-say-never/">
+				<img width="1707" height="2560" src="https://enjoymovie.ir/wp-content/uploads/2024/10/xj8JmcJhqShEm5pdBCpOevAjFzE-scaled.jpg" class="attachment-full size-full wp-post-image" alt="Poster for the movie &quot;Never Say Never&quot;" decoding="async" loading="lazy" srcset="https://enjoymovie.ir/wp-content/uploads/2024/10/xj8JmcJhqShEm5pdBCpOevAjFzE-scaled.jpg 1707w, https://enjoymovie.ir/wp-content/uploads/2024/10/xj8JmcJhqShEm5pdBCpOevAjFzE-200x300.jpg 200w, https://enjoymovie.ir/wp-content/uploads/2024/10/xj8JmcJhqShEm5pdBCpOevAjFzE-683x1024.jpg 683w, https://enjoymovie.ir/wp-content/uploads/2024/10/xj8JmcJhqShEm5pdBCpOevAjFzE-768x1152.jpg 768w, https://enjoymovie.ir/wp-content/uploads/2024/10/xj8JmcJhqShEm5pdBCpOevAjFzE-1024x1536.jpg 1024w, https://enjoymovie.ir/wp-content/uploads/2024/10/xj8JmcJhqShEm5pdBCpOevAjFzE-1365x2048.jpg 1365w" sizes="(max-width: 1707px) 100vw, 1707px" />															</a>
+					</div><!--/.post-thumbnail-->
+
+		<div class="post-meta group">
+			<!--<p class="post-category">دسته‌بندی نشده</p>--> 
+			<p class="post-date">
+  <time class="published updated" datetime="2024-10-15 17:51:16">اکتبر 15, 2024</time>
+</p>
+
+  <p class="post-byline" style="display:none">&nbsp;توسط    <span class="vcard author">
+      <span class="fn"><a href="https://enjoymovie.ir/author/enjoy/" title="ارسال شده توسط قهرمان" rel="author">قهرمان</a></span>
+    </span> &middot; Published <span class="published">اکتبر 15, 2024</span>
+     &middot; Last modified <span class="updated">اکتبر 23, 2024</span>  </p>
+		</div><!--/.post-meta-->
+
+		<h2 class="post-title entry-title">
+			<a href="https://enjoymovie.ir/movies/never-say-never/" rel="bookmark" title="لینک بهدانلود فیلم هرگز نگو هرگز Never Say Never(2023)">دانلود فیلم هرگز نگو هرگز Never Say Never(2023)</a>
+		</h2><!--/.post-title-->
+
+				<div class="entry excerpt entry-summary">
+			<p>فیلم &#8220;هرگز نگو هرگز&#8221; (با عنوان اصلی &#8220;Ba jiao long zhong&#8221; و همچنین با نام &#8220;Octagonal&#8221; شناخته می‌شود) یک اثر اکشن، درام و ورزشی از کشور چین است که در سال ۲۰۲۳ میلادی به کارگردانی بائوکیانگ وانگ (Baoqiang Wang) تولید شده است. این اثر به همت سه کمپانی Beijing Happy Pictures Cultural، Tianjin Maoyan Weying Media و Tumxuk Sunflower Pictures ساخته شده و فیلمنامه‌اش را چی چی و بائوکیانگ وانگ به‌صورت مشترک نوشته‌اند. در این&#46;&#46;&#46;</p>
+		</div><!--/.entry-->
+		
+	</div><!--/.post-inner-->
+</article><!--/.post-->    </div>  </div><!--/.post-list-->
+
+<nav class="pagination group">
+			<ul class="group">
+			<li class="prev left"></li>
+			<li class="next right"><a href="https://enjoymovie.ir/page/2/" >برگهٔ بعد &raquo;</a></li>
+		</ul>
+	</nav><!--/.pagination-->
+
+          </div><!--/.pad-->
+        </section><!--/.content-->
+          
+
+        </div><!--/.main-inner-->
+      </div><!--/.main-->
+    </div><!--/.container-inner-->
+  </div><!--/.container-->
+    <footer id="footer">
+
+    
+    
+    
+    <section class="container" id="footer-bottom">
+      <div class="container-inner">
+
+        <a id="back-to-top" href="#"><i class="fas fa-angle-up"></i></a>
+
+        <div class="pad group">
+
+          <div class="grid one-half">
+                        
+            <div id="copyright">
+                <p>انجوی مووی &copy; 2024. حق کپی رایت محفوظ است.</p>
+            </div><!--/#copyright-->
+
+                                                          <div id="credit" style="">
+                    فارسی سازی پوسته توسط: <a href="https://hamyarwp.com/category/themes/?utm_source=userwebsites&utm_medium=footerlink&utm_campaign=footer" target="_blank">همیار وردپرس</a>                  </div><!--/#credit-->
+                          
+          </div>
+
+          <div class="grid one-half last">
+                                                  </div>
+
+        </div><!--/.pad-->
+
+      </div><!--/.container-inner-->
+    </section><!--/.container-->
+
+  </footer><!--/#footer-->
+
+</div><!--/#wrapper-->
+
+    <script type="text/javascript">
+	var isProcessing = false; 
+    function alter_ul_post_values(obj,post_id,ul_type){
+	
+		if (isProcessing)    
+		return;  
+		isProcessing = true;   
+		
+		jQuery(obj).find("span").html("..");
+    	jQuery.ajax({
+   		type: "POST",
+   		url: "https://enjoymovie.ir/wp-content/plugins/like-dislike-counter-for-posts-pages-and-comments/ajax_counter.php",
+   		data: "post_id="+post_id+"&up_type="+ul_type,
+   		success: function(msg){
+     		jQuery(obj).find("span").html(msg);
+			isProcessing = false; 
+   			}
+ 		});
+	}
+	</script>
+    <script type="text/javascript" src="https://enjoymovie.ir/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://enjoymovie.ir/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'rtl' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://enjoymovie.ir/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.8" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/enjoymovie.ir\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="contact-form-7-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2024-08-16 10:22:14+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"fa"},"This contact form is placed in the wrong place.":["\u0627\u06cc\u0646 \u0641\u0631\u0645 \u062a\u0645\u0627\u0633 \u062f\u0631 \u062c\u0627\u06cc \u0627\u0634\u062a\u0628\u0627\u0647\u06cc \u0642\u0631\u0627\u0631 \u062f\u0627\u062f\u0647 \u0634\u062f\u0647 \u0627\u0633\u062a."],"Error:":["\u062e\u0637\u0627:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://enjoymovie.ir/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.8" id="contact-form-7-js"></script>
+<script type="text/javascript" id="wpmoly-js-extra">
+/* <![CDATA[ */
+var wpmoly = {"lang":{"grid":"grid"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://enjoymovie.ir/wp-content/plugins/wpmovielibrary/assets/js/public/wpmoly.js?ver=2.1.4.9" id="wpmoly-js"></script>
+<script type="text/javascript" src="https://enjoymovie.ir/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script type="text/javascript" id="hu-front-scripts-js-extra">
+/* <![CDATA[ */
+var HUParams = {"_disabled":[],"SmoothScroll":{"Enabled":true,"Options":{"touchpadSupport":false}},"centerAllImg":"1","timerOnScrollAllBrowsers":"1","extLinksStyle":"1","extLinksTargetExt":"1","extLinksSkipSelectors":{"classes":["btn","button"],"ids":[]},"imgSmartLoadEnabled":"","imgSmartLoadOpts":{"parentSelectors":[".container .content",".container .sidebar","#footer","#header-widgets"],"opts":{"excludeImg":[".tc-holder-img"],"fadeIn_options":100}},"goldenRatio":"1.618","gridGoldenRatioLimit":"350","sbStickyUserSettings":{"desktop":true,"mobile":true},"isWPMobile":"","menuStickyUserSettings":{"desktop":"stick_always","mobile":"stick_always"},"mobileSubmenuExpandOnClick":"1","submenuTogglerIcon":"<i class=\"fas fa-angle-down\"><\/i>","isDevMode":"","ajaxUrl":"https:\/\/enjoymovie.ir\/?huajax=1","frontNonce":{"id":"HuFrontNonce","handle":"2dc09a973b"},"isWelcomeNoteOn":"","welcomeContent":"","i18n":{"collapsibleExpand":"\u0628\u0627\u0632 \u06a9\u0631\u062f\u0646","collapsibleCollapse":"\u0628\u0633\u062a\u0646"},"fitTextMap":{"single_post_title":{"selectors":".single h1.entry-title","minEm":1.375,"maxEm":2.62},"page_title":{"selectors":".page-title h1","minEm":1,"maxEm":1.3},"home_page_title":{"selectors":".home .page-title","minEm":1,"maxEm":1.2,"compression":2.5},"post_titles":{"selectors":".blog .post-title, .archive .post-title","minEm":1.375,"maxEm":1.475},"featured_post_titles":{"selectors":".featured .post-title","minEm":1.375,"maxEm":2.125},"comments":{"selectors":".commentlist li","minEm":0.8125,"maxEm":0.93,"compression":2.5},"entry":{"selectors":".entry","minEm":0.9375,"maxEm":1.125,"compression":2.5},"content_h1":{"selectors":".entry h1, .woocommerce div.product h1.product_title","minEm":1.7578125,"maxEm":2.671875},"content_h2":{"selectors":".entry h2","minEm":1.5234375,"maxEm":2.390625},"content_h3":{"selectors":".entry h3","minEm":1.40625,"maxEm":1.96875},"content_h4":{"selectors":".entry h4","minEm":1.2890625,"maxEm":1.6875},"content_h5":{"selectors":".entry h5","minEm":1.0546875,"maxEm":1.40625},"content_h6":{"selectors":".entry h6","minEm":0.9375,"maxEm":1.265625,"compression":2.5}},"userFontSize":"16","fitTextCompression":"1.5"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://enjoymovie.ir/wp-content/themes/hueman/assets/front/js/scripts.min.js?ver=3.4.20" id="hu-front-scripts-js"></script>
+<!--[if lt IE 9]>
+<script src="https://enjoymovie.ir/wp-content/themes/hueman/assets/front/js/ie/respond.js"></script>
+<![endif]-->
+
+<script type="text/javascript">;!(function(w,d) {'use strict';d.write('<div id="amarfa-stats-14106" style="display: inline-block"></div>');d.write('<'+'sc'+'ript type="text/javasc'+'ri'+'pt" src="//amarfa.ir/stats/14106.js" async><'+'/'+'scri'+'pt>');})(this,document);</script>
+
+</body>
+</html>
